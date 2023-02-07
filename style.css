@@ -203,7 +203,7 @@ margin: 5%;
 /* TABLET design */
 @media screen and (min-width:768px) and (max-width: 996px) {
     #art-img-div > img {
-        content: url(/tablet/image-hero@2x.jpg);
+        content: url(tablet/image-hero@2x.jpg);
         max-width: 60%;
         z-index: 1;
     }
@@ -289,7 +289,7 @@ margin: 5%;
     }
 
     .first-image {
-        content: url(/tablet/image-grid-1.jpg);
+        content: url(tablet/image-grid-1.jpg);
         grid-column: 2/3;
         grid-row: 1/3;
         width: 520px;
@@ -297,7 +297,7 @@ margin: 5%;
     }
     
     .gallery_1 {
-        content: url(/tablet/image-grid-2.jpg);
+        content: url(tablet/image-grid-2.jpg);
         grid-column: 1/2;
         grid-row: 3/6;
         width: 31em;
@@ -305,7 +305,7 @@ margin: 5%;
     }
 
     .gallery_2 {
-        content: url(/tablet/image-grid-3.jpg);
+        content: url(tablet/image-grid-3.jpg);
         grid-column: 3/3;
         grid-row: 3/4;
         width: 16.5em;
@@ -425,7 +425,7 @@ margin: 5%;
     }
     
     #art-gallery-img {
-        content: url(/desktop/image-hero.jpg);
+        content: url(desktop/image-hero.jpg);
         width: 40%;
         display: inline;
         background-color: white;
@@ -476,7 +476,7 @@ margin: 5%;
     }
 
     .first-image {
-        content: url(/desktop/image-grid-1.jpg);
+        content: url(desktop/image-grid-1.jpg);
         grid-column: 2/5;
         grid-row: 1/3;
         /* this option does correct the width of the image, not sure if it's the correct way though */ 
@@ -485,7 +485,7 @@ margin: 5%;
     }
     
     .gallery_1 {
-        content: url(/desktop/image-grid-2.jpg);
+        content: url(desktop/image-grid-2.jpg);
         grid-column: 1/3;
         grid-row: 3/6;
         max-width: 100vw;
@@ -496,7 +496,7 @@ margin: 5%;
     }
 
     .gallery_2 {
-        content: url(/desktop/image-grid-3.jpg);
+        content: url(desktop/image-grid-3.jpg);
         grid-column: 3/5;
         grid-row: 3/4;
         max-width: 100vw;
