@@ -148,7 +148,7 @@ font-family: 'Outfit';
     }
 
     .map-image-div {
-        content: url(/tablet/image-map@2x.png);
+        content: url(/art-gallery/tablet/image-map@2x.png);
         width: 100vw;
     }
 
