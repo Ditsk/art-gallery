@@ -418,18 +418,6 @@ margin: 5%;
         top: 50%;
         right: 13%;
     }
-
-    #location_button {
-        /* position: absolute;
-        right: 21.5%;
-        top: 50%; */
-        
-    }
-    #chevron-right {
-        /* position: absolute;
-        right: 18.5%;
-        top: 50%; */
-    }
     
     #art-gallery-img {
         content: url(desktop/image-hero.jpg);
