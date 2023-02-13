@@ -412,16 +412,23 @@ margin: 5%;
         font-size: 22px;
         
     }
-    
-    #location_button {
+
+    .button-location-div {
         position: absolute;
-        right: 21.5%;
         top: 50%;
+        right: 13%;
+    }
+
+    #location_button {
+        /* position: absolute;
+        right: 21.5%;
+        top: 50%; */
+        
     }
     #chevron-right {
-        position: absolute;
+        /* position: absolute;
         right: 18.5%;
-        top: 50%;
+        top: 50%; */
     }
     
     #art-gallery-img {
@@ -558,6 +565,21 @@ margin: 5%;
         position: relative;
     
     } */
+
+    /* HOVER effects */
+    .button-location-div:hover #location_button {
+        background-color: #D5966C;
+    }
+    .button-location-div:hover #chevron-right {
+        background-color: black;
+    }
+
+
+    .links:hover {
+        color:#D5966C;
+    }
+
+
 
 }
 
